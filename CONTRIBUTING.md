@@ -4,14 +4,14 @@ Thank you for your time and interest in this project.
 
 ## Issues
 
-If you think that you have discovered an issue then please first search whether someone else has already reported something similar (including issues that have been closed). If a related issue does not yet exist then please open a new issue using the relevant form.
+If you believe that you have discovered an issue, please first search for any prior report (including closed issues). If not, feel free to open a new issue using the relevant form.
 
 ## Enhancements
 
-If you have an idea for how to improve this project then please first search whether someone else has already suggested something similar (including issues that have been closed). If it is a new idea then please open a new new issue using the relevant form.
+If you have an idea to improve the project, please check for existing suggestions (including closed issues). If it is a new idea, you are welcome to open an issue.
 
-However, this is a personal project, satisfying my own requirements. Please do not be offended if I choose not to accept your idea, for example if it is not aligned with my own usage of the project, or if it would require disproportionate development effort. Feel free to fork the project and make the changes to your own version.
+However, please note that this is a personal project designed to suit my own needs. I may choose not to pursue ideas that do not align with my usage or would require disproportionate effort. You are always welcome to fork the project and adapt it to your needs.
 
 ## Pull Requests
 
-This project does **NOT** accept pull requests. Any PRs submitted will be closed without discussion.
+As this is a personal project, I do not accept pull requests to maintain full control over the codebase and direction. Any PRs submitted will be closed automatically and without discussion.
