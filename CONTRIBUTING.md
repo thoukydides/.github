@@ -2,6 +2,12 @@
 
 Thank you for your time and interest in this project.
 
+## About This Project
+
+This is a personal project shared openly. I actively welcome bug reports and enhancement suggestions, but maintain sole development responsibility. Think of it as “shared but not collaborative” - your feedback shapes direction, but I handle implementation.
+
+Please note that responses and implementations may take time as this project is maintained alongside other personal commitments.
+
 ## Issues
 
 If you believe that you have discovered an issue, please first search for any prior report (including closed issues). If not, feel free to open a new issue using the relevant form.

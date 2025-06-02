@@ -1,6 +1,6 @@
 # Code of Conduct
 
-This project is a personal endeavor. Whilst I welcome constructive engagement, the following guidelines outline expected behaviour for all interactions in project spaces.
+This project is open-sourced as a personal endeavour. I welcome constructive engagement from the community and appreciate when others find my work useful.
 
 ## Expected Behaviour
 
@@ -23,4 +23,4 @@ As project owner, I will review all reports of unacceptable behaviour and take a
 
 ## Reporting
 
-If you witness behaviour that violates this Code of Conduct, please open an issue to report it. For sensitive matters, you may contact me privately if an appropriate contact method is available. Otherwise, please raise the issue publicly but without sensitive details.
+Please report violations by opening a GitHub issue (without sensitive details if the matter requires discretion). I will review and respond as appropriate for a personal project.
