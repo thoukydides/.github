@@ -23,3 +23,13 @@ Keep in mind this project is designed to meet my personal needs. I may not pursu
 To keep the codebase consistent and manageable, I do not accept pull requests. Any submitted PRs will be closed without merging.
 
 Thank you for understanding.
+
+## AI Assistant
+
+To help manage and triage issues, this project uses an AI assistant ([Dosu](https://dosu.dev/)). It may:
+
+* Comment on new issues to ask clarifying questions
+* Cross-reference related issues or discussions
+* Close issues that appear stale
+
+The assistant follows the guidelines I have defined, but it is not infallible. If its response is unhelpful or mistaken, feel free to ignore or correct it. I periodically review its actions and adjust its behaviour as needed.
